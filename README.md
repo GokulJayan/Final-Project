@@ -12,9 +12,14 @@
 
 (d). Floating button in the transaction tab will direct user to a new page for adding transaction.
 
-**Working Video: Drive Link**: https://drive.google.com/file/d/1Oxp7ymZV3wwcEzarirn-RZmMGDTeVBig/view?usp=sharing
+**Working:** 
+
+**1.Drive Link**: https://drive.google.com/file/d/1Oxp7ymZV3wwcEzarirn-RZmMGDTeVBig/view?usp=sharing
+
+**2. GIF:**![pro](https://user-images.githubusercontent.com/72083631/168672970-0505fe8c-e0a1-4e97-8206-34805f7ac228.gif)
 
 **Screenshots**
+
 
 **1. Home Screen/Transactions**
 
